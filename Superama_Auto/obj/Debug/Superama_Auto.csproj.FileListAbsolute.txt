@@ -1,0 +1,17 @@
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\obj\Debug\Superama_Auto.csprojResolveAssemblyReference.cache
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\Superama_Auto.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\Superama_Auto.pdb
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\appium-dotnet-driver.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\Castle.Core.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\Newtonsoft.Json.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\WebDriver.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\WebDriver.Support.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\appium-dotnet-driver.xml
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\Castle.Core.xml
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\Newtonsoft.Json.xml
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\WebDriver.xml
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\WebDriver.Support.xml
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\obj\Debug\Superama_Auto.dll
+c:\users\jbarbari\documents\visual studio 2015\Projects\Superama_Auto\Superama_Auto\obj\Debug\Superama_Auto.pdb
